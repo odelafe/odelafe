@@ -1,4 +1,4 @@
-## Hola a todos. Mi nombre es Orestes 👋
+## Hola a todos. Este es mi espacio para estudiar y crecer como desarrollador 👋
 
 <!--
 **odelafe/odelafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
