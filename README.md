@@ -1,5 +1,7 @@
 ## Hola a todos. Este es mi espacio para estudiar y crecer como desarrollador 👋
 
+![https://github.com/odelafe](./odelafe_github_profile.jpeg)
+
 <!--
 **odelafe/odelafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
